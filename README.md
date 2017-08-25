@@ -39,6 +39,7 @@ RxImagePicker.with(context).requestVideo(Sources.CAMERAVIDEO).subscribe(new Cons
 
 ## Developer
 * Nelson FB 
+* Based on RxImagePicker from @MLSDev
 
 # License
 RxMediaPicker is released under the MIT license. See LICENSE for details.
